@@ -88,5 +88,5 @@ do
     xsetroot -name "$upperbar"
     # Uncomment the line below to enable the lowerbar
     #xsetroot -name "$upperbar;$lowerbar"
-    sleep 1m
+    sleep 5s
 done
